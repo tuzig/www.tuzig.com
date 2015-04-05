@@ -8,7 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIME_ZONE = 'Asia/Jerusalem'
 
 DEFAULT_LANG = u'en'
 
@@ -20,14 +20,19 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Open Knesset', 'http://oknesset.org/'),
+         ('Hasadna', 'http://hasadna.org.il/'),
+         ('PyWeb-IL', '#'),
+        )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('discourse(he)', 'http://forum.hasadna.org.il/users/daonb'),
+          ('twitter', 'https://twitter.com/daonb'),
+          ('github', 'https://github.com/daonb'),
+          ('linkedin', 'http://il.linkedin.com/in/daonb'),
+          ('flickr', 'http://flickr.com/daonb'),
+          ('facebook (he)', 'https://www.facebook.com/daonb'),
+         )
 
 DEFAULT_PAGINATION = 10
 
