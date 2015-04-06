@@ -1,5 +1,4 @@
 output
 cache
-fabfile.py
 *.pyc
 *.pid

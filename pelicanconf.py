@@ -13,6 +13,7 @@ DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (('Home', '/'),
              ('About', '/pages/about.html'),
+             ('Philanthropy', '/pages/philanthropy.html'),
              )
 
 TIME_ZONE = 'Asia/Jerusalem'
@@ -41,7 +42,7 @@ SOCIAL = (('discourse(he)', 'http://forum.hasadna.org.il/users/daonb'),
           ('facebook (he)', 'https://www.facebook.com/daonb'),
          )
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
