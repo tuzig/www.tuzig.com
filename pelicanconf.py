@@ -3,17 +3,24 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Benny Daon'
-SITENAME = u'Tuzig Limited'
+SITENAME = u''
+SITESUBTITLE = 'Starting fires in the clouds'
 SITEURL = ''
 
 PATH = 'content'
-THEME = 'theme'
+THEME = 'theme/crowsfoot'
+
+GITHUB_ADDRESS = 'https://github.com/daonb'
+TWITTER_ADDRESS = 'https://twitter.com/daonb'
+FB_ADDRESS = 'https://www.facebook.com/daonb'
+PROFILE_IMAGE_URL = "/images/tuzig_logo.jpg"
 
 DISPLAY_PAGES_ON_MENU = False
 
-MENUITEMS = (('Home', '/'),
-             ('About', '/pages/about.html'),
+MENUITEMS = (
+             ('Services', '/pages/services.html'),
              ('Philanthropy', '/pages/philanthropy.html'),
+             ('About', '/pages/about.html'),
              )
 
 TIME_ZONE = 'Asia/Jerusalem'

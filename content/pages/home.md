@@ -7,10 +7,14 @@ channel through which I sell my services. I provide web and mobile strategy,
 development and design solutions for both non-profit and for-profit
 organizations as well.
 
-I prefer to spend my time in front of VIM as I believe it the most
-effective way to use my time. However, sometimes in the life of an
-organization when it's more effective to lead from the meeting room.
-Times like inception or startegic inflaction point, when it's easy to
-develop a better system.
+I prefer to spend my time in front of VIM as I enjoy coding and it's
+the most effective way to use my time. I am a full stack developer who
+prefer scenario based design and test driven development. I am also a very
+active open source contributor and I grok open communities.
 
+groking both AngularJS and servers However, rarely in the life of an
+organization it's more effective to lead from the meeting room.
+When a startup just starts or goes through startegic inflaction points I can
+be more effective , when it's easy to
+develop a better system.
 
