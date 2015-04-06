@@ -13,7 +13,7 @@ THEME = 'theme/crowsfoot'
 GITHUB_ADDRESS = 'https://github.com/daonb'
 TWITTER_ADDRESS = 'https://twitter.com/daonb'
 FB_ADDRESS = 'https://www.facebook.com/daonb'
-PROFILE_IMAGE_URL = "/images/tuzig_logo.jpg"
+PROFILE_IMAGE_URL = "/images/tuzig_logo.png"
 
 DISPLAY_PAGES_ON_MENU = False
 
