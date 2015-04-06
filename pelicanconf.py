@@ -7,6 +7,13 @@ SITENAME = u'Tuzig Limited'
 SITEURL = ''
 
 PATH = 'content'
+THEME = 'theme'
+
+DISPLAY_PAGES_ON_MENU = False
+
+MENUITEMS = (('Home', '/'),
+             ('About', '/pages/about.html'),
+             )
 
 TIME_ZONE = 'Asia/Jerusalem'
 
