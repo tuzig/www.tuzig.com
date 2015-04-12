@@ -62,13 +62,21 @@
           <ul>
             <!-- menu items-->
             {% for title, link in MENUITEMS %}
-              <li><a class="nodec" href="{{ link }}">{{ title }}</a></li>
+            <li{% if page == title %} class="active"{% endif %}>
+              <a href="{{ link }}">{{ title }}</a>
+            </li>
             {% endfor %}
             <!--pages-->
             {% if DISPLAY_PAGES_ON_MENU %}
               {% for p in PAGES %}
                 <li{% if p == page %} class="active"{% endif %}><a class="nodec" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
               {% endfor %}
+            {% endif %}
+            <!--categories-->
+            {% if DISPLAY_CATEGORIES_ON_MENU -%}
+            {% for cat, null in categories %}
+                <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+            {% endfor %}
             {% endif %}
             </ul>
         </nav>

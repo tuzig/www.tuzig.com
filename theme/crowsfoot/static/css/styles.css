@@ -245,3 +245,4 @@ footer {
     position: absolute;
 }
 .links { float: right; }
+.active a { text-decoration: none; }

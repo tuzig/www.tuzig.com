@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Benny Daon'
 SITENAME = u''
-SITESUBTITLE = 'Starting fires in the clouds'
+SITESUBTITLE = 'Building Cloud Fires'
 SITEURL = ''
 
 PATH = 'content'
@@ -22,6 +22,8 @@ MENUITEMS = (
              ('Philanthropy', '/pages/philanthropy.html'),
              ('About', '/pages/about.html'),
              )
+
+DEFAULT_CATEGORY = 'blog'
 
 TIME_ZONE = 'Asia/Jerusalem'
 
