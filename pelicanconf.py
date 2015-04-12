@@ -20,7 +20,7 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
              ('Services', '/pages/services.html'),
              ('Philanthropy', '/pages/philanthropy.html'),
-             ('About', '/pages/about.html'),
+             ('Me', '/pages/me.html'),
              )
 
 DEFAULT_CATEGORY = 'blog'

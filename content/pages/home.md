@@ -4,7 +4,7 @@ save_as: index.html
 
 Tuzig Limited is Benny Daon's commercial avatar and the
 channel through which I sell my services. I provide web and mobile development
-services for both non-profit and for-profit organizations.
+services for agile projects and I prefer to work for non-profits.
 
 > "I've known Benny for over 20 years and he is one of the best coders
 > out there. He groks the coding craft and the agile development process.
