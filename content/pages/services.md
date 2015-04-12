@@ -1,12 +1,21 @@
 Title: Services
 
-I am a software craftsman who understands agile development and the
-importance of automated testing and documentation.  I am a "full stack" meaning I am good at coding a frontend using frameworks like AngularJS, and I can code DevOps tools based on tools like Docker.
-I love Python and Javascript and know very little about SQL and a lot about data networks.
+Tuzig takes on small project and medium-term engagments. A medium term
+starts with a 3 months long contract for 4 days a week.
+After the initial contract both parties can agree to extend the contract
+and continue working together.
 
-While I prefer to code, I can also lead from the top, using emails and
- the meeting room to change an organization. I've been the CEO and
- Chairman in a number of companies, and I'm pretty good it.
- In situtions where there's a great opportunity and team and all you're
- missing is a CEO, I'm open to an interim-CEO position.
-In this capcity I will manage the milestones, develop the team & culture and recruit my replacement.
+Small projects are for non-profit organization that look for an
+open-data, open-source online solution. In small prjects, Tuzig takes full
+responsibility over the projects' design, development and deployment
+of the project.
+
+Engagement Log
+--------------
+
+* Citizens' Empowerment Center - Configuring and deploying JIRA to track
+  gov.il decisions and execution
+* XtremIO (EMC)- Developing a DevOps tool, including a backend, CLI
+  and Jenkins plugin
+* Fanwaze - Starting the R&D team and app development for a sports' startup
+* Give2gether - Starting the R&D team for social fundraising startup

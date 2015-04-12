@@ -1,6 +1,12 @@
 Title: About
 Author: Benny Daon
 
+I am a software craftsman who understands agile development and the
+importance of automated testing and documentation.
+I am a "full stack" developer,meaning I am good at coding a frontend using
+frameworks like AngularJS, and I can code DevOps tools based on tools like
+Docker.  I love Python and Javascript and know very little about SQL and a lot about data networks.
+
 I've started coding after my Bar-Mitzva in Basic and 8 bit assembler and
 am still enjoying it, more than 30 years later.  In late 1997 I
 co-founded Shunra Software - a bootstrap - and lead the development of
