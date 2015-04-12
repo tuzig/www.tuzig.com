@@ -2,7 +2,7 @@ Title: Welcome to Tuzig Limited
 URL:
 save_as: index.html
 
-Tuzig Limited is mine, Benny Daon, commercial avatar and the
+Tuzig Limited is Benny Daon's commercial avatar and the
 channel through which I sell my services. I provide web and mobile development
 services for both non-profit and for-profit organizations.
 
