@@ -1,12 +1,15 @@
 Title: Services
 
-Tuzig takes on small projects and medium-term engagments. A medium term
-starts with a 3 months long contract for 4 days a week.
-After the initial contract both parties can agree to extend the contract
-and continue working together.
+Tuzig takes on small projects and medium-term engagments. Engagements
+start with a three months development contract.  While under contract
+Benny will join the dev team and help it grow through code commits and
+improvments to the devlopment process.
 
-Small projects are for non-profit organizations that look for an
-open-data, open-source online solution. In small prjects, Tuzig takes full
+After the initial contract the client can choose to extend the contract
+by up to three months. 
+
+Small, price-fixed projects are for non-profit organizations that look for an
+open-data, open-source online solution. In these projects Benny takes full
 responsibility over the projects' design, development and deployment
 of the project.
 

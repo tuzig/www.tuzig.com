@@ -1,25 +1,47 @@
-Title: About
+Title: Me
 Author: Benny Daon
 
-I am a software craftsman who understands agile development and the
-importance of automated testing and documentation.
-I am a "full stack" developer, good at coding a frontend using
-frameworks like AngularJS, and I can code DevOps tools based on tools like
-Docker.  I love Python and Javascript and know very little about SQL and a lot about data networks.
+![benny smiling](/images/benny.png)
+> TL;DR:
+>
+> I am a hacker pythonista who groks
+> agile development and the importance of automated testing and documentation.
 
-I've started coding after my Bar-Mitzva in Basic and 8 bit assembler and
-I still enjoy coding, more than 30 years later.  In late 1997 I
-co-founded Shunra Software - a bootstrap - and led the development of
-its first product: `The Cloud`.
+I'm a 1969 Vintage Benny from the Daon family. I lives in Tel-Aviv with my wife and two daughters: Noya
+and Daniella.
 
-I've been fortunate enough to lead Shunra as its CEO in its first seven
-years and help it grow to a yearly income of $10MM and over 60
-employees. Thanks to my Shunra's shares, I've been able to take it easy
-in the last seven years getting back on the coding saddle and developing
-open-source, creative-common projects.
+Coding is my hobby for over 30 years. My first computer was an Atari 400 and my first professional gig was in
+Israeli Air Force, maintaining the fortran code for the F16 flight simulator.
 
-Ofri and I started Open Knesset in 2009 and today it is
-the leading source of parliementry data. In 2011, Open Knesset gave
-birth to a mother non-profit organization - `The Public
-Knowledge Workshop` or `Hasadna` for its short Hebrew name.
+![tibetan family](/images/tibet.png)
+
+Two weeks after my discharge in 1992 I went for a big trip.
+I travelled by train across eastern europe and through kazakhstan into
+eastern china. I ended the Trip in Goa by the Indian Ocean from
+where I flew home after four months of travel by land and sea and seeing
+the everest close by
+([photos](https://www.flickr.com/photos/daonb/sets/72157618053788156/)).
+
+When I came back, I started working as a junior developer
+for a startup - Rad Advanced Networks. In RUN we tried to improve TCP's
+flow control and optimize available bandwidth. While there, I learned what
+the network looks like at the packet level, working on a network sniffer
+for most of the day.
+
+![network sniffer](/images/sniffer.jpg)
+
+RAN collapsed in late 1997 driving me to start working on a testing tool
+RAN needed badly - a WAN emulator. A tool that all testing traffic flows
+through and that lets the user recreate effects of the global network in
+his lab.
+
+Around this idea, we've bootstraped Shunra Software with me as the CEO.
+It took us six months to make the first product sale and 7 years
+ of profitable growth to have 60 employees.
+We finally raised $11.5MM from Jeff and Harel (reping Insight
+Venture Partners and Carmel Ventures) and a year after the investment
+I felt it's time to move on, left Shunra and sold my shares.
+
+After making a fool of myself and burning some money on the second startup,
+I retired from the busines world and went back to coding.
 

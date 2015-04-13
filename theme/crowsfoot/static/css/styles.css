@@ -246,3 +246,4 @@ footer {
 }
 .links { float: right; }
 .active a { text-decoration: none; }
+.article img { float: right; padding: 0.5em 0 0.5em 0.5em; }
