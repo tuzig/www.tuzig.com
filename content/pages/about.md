@@ -45,4 +45,3 @@ I felt it's time to move on, left Shunra and sold my shares.
 After making a fool of myself and burning some money on the second startup,
 I retired from the busines world and went back to coding.
 
-Smart Move.
