@@ -4,7 +4,8 @@
 /* General stuff. */
 
 body {
-    width: 800px;
+    max-width: 800px;
+    color: #383838;
 }
 
 html { /* This stuff is for the sticky footer. */
@@ -16,10 +17,15 @@ html { /* This stuff is for the sticky footer. */
 
 body {
     background-color:#fafafa;
-    font-family:'Open Sans';
+    font-family: "europa",sans-serif;
     margin: 20px auto 100px auto; /* For sticky footer. */
 }
 
+p {
+  font-weight: 300;
+  margin: 0 0 1em;
+  font-style: normal;
+}
 /* Site header. */
 
 .sitebanner {
@@ -41,7 +47,6 @@ body {
 }
 
 .sitetitle {
-    font-family: 'Merriweather';
     font-weight: 300;
     font-size: 4em;
     padding-left: 10px; /* Hack to dodge :hover issue. */
@@ -50,16 +55,19 @@ body {
 }
 
 .sitesubtitle {
+    font-family: "source-code-pro";
     color: #000;
-    font-size: 1em;
+    font-size: 1.4em;
     margin-bottom: 20px;
-    margin-top: 10px;
+    margin-top: 2px;
     /* padding-left: 30px; */
 }
 
 /* The navbar. */
 
 .menu {
+    float: right;
+    font-family: "source-code-pro";
     font-size: 1.3em;
     /* padding-left: 30px; */
 }
@@ -89,8 +97,8 @@ body {
 }
 
 .postsummary {
-    font-family: Merriweather;
     font-weight: 300;
+    line-height: 1.6em;
 }
 
 .post {
@@ -163,8 +171,9 @@ sub {
 /* Paragraphs. */
 
 .article p {
-    line-height: 1.3em;
+    line-height: 1.6em;
     margin-bottom: 1.5em;
+    font-weight: 300;
 }
 
 /* Headers. */
@@ -172,6 +181,7 @@ sub {
 .article h1 {
     padding-bottom: 1em;
     font-size: 1.4em;
+    font-weight: 400;
 }
 
 .article h2 {
@@ -202,9 +212,7 @@ sub {
 /* Blockquotes */
 
 .article blockquote {
-    font-size: 0.9em;
-    font-style: italic;
-    border-left: 3px solid #ccc;
+    border-left: 1px solid #000;
     margin-left: 30px;
     padding-left: 10px;
     margin-bottom: 30px;
@@ -223,7 +231,7 @@ sub {
 }
 
 .article pre {
-    font-family: 'Source Code Pro';
+    font-family: "source-code-pro";
     font-size: .8em;
     margin: auto;
     padding: 1em;
@@ -231,7 +239,7 @@ sub {
 }
 
 .article code {
-    font-family: 'Source Code Pro';
+    font-family: "source-code-pro";
     font-size: 1em;
 }
 
@@ -247,3 +255,4 @@ footer {
 .links { float: right; }
 .active a { text-decoration: none; }
 .article img { float: right; padding: 0.5em 0 0.5em 0.5em; }
+#postlist li { list-style: none; }

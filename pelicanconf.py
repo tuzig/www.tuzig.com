@@ -13,13 +13,15 @@ THEME = 'theme/crowsfoot'
 GITHUB_ADDRESS = 'https://github.com/daonb'
 TWITTER_ADDRESS = 'https://twitter.com/daonb'
 FB_ADDRESS = 'https://www.facebook.com/daonb'
+LI_ADDRESS = 'https://il.linkedin.com/in/daonb'
+FLICKR_ADDRESS = 'https://flickr.com/daonb'
 PROFILE_IMAGE_URL = "/images/tuzig_logo.png"
 
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
-             ('Services', '/pages/services.html'),
              ('Philanthropy', '/pages/philanthropy.html'),
+             ('Services', '/pages/services.html'),
              ('Me', '/pages/me.html'),
              )
 

@@ -4,7 +4,7 @@ Author: Benny Daon
 ![benny smiling](/images/benny.png)
 > TL;DR:
 >
-> I am a hacker pythonista who groks
+> I am a pythonista that groks
 > agile development and the importance of automated testing and documentation.
 
 I'm a 1969 Vintage Benny from the Daon family. I lives in Tel-Aviv with my wife and two daughters: Noya
@@ -43,5 +43,6 @@ Venture Partners and Carmel Ventures) and a year after the investment
 I felt it's time to move on, left Shunra and sold my shares.
 
 After making a fool of myself and burning some money on the second startup,
-I retired from the busines world and went back to coding.
+I retired from the busines world and went back to coding focusing on
+[philanthropy](/pages/philanthropy.html).
 
