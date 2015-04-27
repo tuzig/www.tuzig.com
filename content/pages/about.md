@@ -44,5 +44,8 @@ I felt it's time to move on, left Shunra and sold my shares.
 
 After making a fool of myself and burning some money on the second startup,
 I retired from the busines world and went back to coding focusing on
-[philanthropy](/pages/philanthropy.html).
+[philanthropy](/pages/philanthropy.html). After five years of open
+source coding and occusional consulting gigs for friend, my money
+started running low. Today, I'm selling most of my working hours as
+[professional services](/pages/services.html).
 
