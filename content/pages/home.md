@@ -15,3 +15,8 @@ projects.
 >
 > (Yaron Segev, XtremIO Founder)
 
+We are currently working on a not-for-profit project - Open Knesset for
+the Twenty Knesset. We are partnering with MKs and their teams, planning a
+service that will strengthen the relationship between them and the
+activists. The plan is to have a crowd funding campaign by the end of
+May, so we're going to take on a new project in June.

@@ -11,12 +11,12 @@ I'm a 1969 Vintage Benny from the Daon family. I lives in Tel-Aviv with my wife 
 and Daniella.
 
 Coding is my hobby for over 30 years. My first computer was an Atari 400 and my first professional gig was in
-Israeli Air Force, maintaining the fortran code for the F16 flight simulator.
+Israeli Air Force, maintaining the Fortran code for the F16 flight simulator.
 
 ![tibetan family](/images/tibet.png)
 
 Two weeks after my discharge in 1992 I went for a big trip.
-I travelled by train across eastern europe and through kazakhstan into
+I travelled by train across eastern Europe and through Kazakhstan into
 eastern china. I ended the Trip in Goa by the Indian Ocean from
 where I flew home after four months of travel by land and sea and seeing
 the everest close by
@@ -38,14 +38,13 @@ his lab.
 Around this idea, we've bootstraped Shunra Software with me as the CEO.
 It took us six months to make the first product sale and 7 years
  of profitable growth to have 60 employees.
-We finally raised $11.5MM from Jeff and Harel (reping Insight
+We finally raised $11.5MM from Jeff and Harel (rep-ing Insight
 Venture Partners and Carmel Ventures) and a year after the investment
 I felt it's time to move on, left Shunra and sold my shares.
 
 After making a fool of myself and burning some money on the second startup,
-I retired from the busines world and went back to coding focusing on
-[philanthropy](/pages/philanthropy.html). After five years of open
-source coding and occusional consulting gigs for friend, my money
-started running low. Today, I'm selling most of my working hours as
-[professional services](/pages/services.html).
-
+I retired from the business world and went back to coding focusing on
+[philanthropy](/pages/philanthropy.html). I've been focusing on
+open-source and open-data projects for the past six years. To keep a
+positive cash flow, I occasionally take on paying gigs through [Tuzig's
+services](/pages/services.html).
