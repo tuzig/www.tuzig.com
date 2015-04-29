@@ -104,6 +104,8 @@ cf_upload: publish
 	cd $(OUTPUTDIR) && swift -v -A https://auth.api.rackspacecloud.com/v1.0 -U $(CLOUDFILES_USERNAME) -K $(CLOUDFILES_API_KEY) upload -c $(CLOUDFILES_CONTAINER) .
 
 github: publish
+	cp -r shunra1 $(OUTPUTDIR)
+	cp CNAME $(OUTPUTDIR)
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push -f git@github.com:daonb/daonb.github.io.git $(GITHUB_PAGES_BRANCH):master
 

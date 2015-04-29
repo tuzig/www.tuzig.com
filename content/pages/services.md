@@ -29,3 +29,11 @@ Engagement Log
   and Jenkins plugin
 * Fanwaze - Starting the R&D team and app development for a sports' startup
 * Give2gether - Starting the R&D team for social fundraising start
+
+Prehistory
+----------
+
+Before Tuzig, there was Shunra Software LTD a bootstrap company Benny
+co-founded and led as CEO in its first 7 years. Now part of HP,
+Shunra's first product was released in Mid 1998 - a WAN emulator called "The Cloud".
+Here is [Shunra's site](/shunra1) from back then. 
