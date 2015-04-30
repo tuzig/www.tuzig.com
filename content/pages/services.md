@@ -15,8 +15,7 @@ with in-house specialists tapping into their knowledge and ensuring a
 smooth transition as we phase out.
 
 We are not cheap, but we do deliver solid software products with minimal
-management overhead. If you're interested please send Benny an email at
-bennydaon at gmail dot com.
+management overhead. 
 
 Engagement Log
 --------------
@@ -37,3 +36,5 @@ Before Tuzig, there was Shunra Software LTD a bootstrap company Benny
 co-founded and led as CEO in its first 7 years. Now part of HP,
 Shunra's first product was released in Mid 1998 - a WAN emulator called "The Cloud".
 Here is [Shunra's site](/shunra1) from back then. 
+
+    If you're interested please send Benny an email at bennydaon at gmail dot com.
