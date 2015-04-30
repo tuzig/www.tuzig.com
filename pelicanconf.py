@@ -20,9 +20,10 @@ PROFILE_IMAGE_URL = "/images/tuzig_logo.png"
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
+             ('Me', '/pages/me.html'),
              ('Philanthropy', '/pages/philanthropy.html'),
              ('Services', '/pages/services.html'),
-             ('Me', '/pages/me.html'),
+             ('Colophone', '/pages/colophone.html'),
              )
 
 DEFAULT_CATEGORY = 'blog'
