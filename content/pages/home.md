@@ -3,7 +3,7 @@ URL:
 save_as: index.html
 
 Tuzig Limited is Benny Daon's commercial avatar and the
-channel through which I sell my services. I provide web and mobile development
+channel through which he sells his services. We provide web and mobile development
 services for agile projects and I prefer to work for open source
 projects.
 
