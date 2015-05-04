@@ -30,8 +30,8 @@ for most of the day.
 
 ![network sniffer](/images/sniffer.jpg)
 
-RAN collapsed in late 1997 driving me to start working on a testing tool
-RAN needed badly - a WAN emulator. A tool that all testing traffic flows
+RUN collapsed in late 1997 driving me to start working on a testing tool
+RUN needed badly - a WAN emulator. A tool that all testing traffic flows
 through and that lets the user recreate effects of the global network in
 his lab.
 
