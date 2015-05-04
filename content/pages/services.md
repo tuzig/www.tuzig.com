@@ -1,6 +1,6 @@
 Title: Services
 
-Tuzig's main service is taking ownership of new software projects and
+Tuzig's main service is leading new software projects and
 delivering their first few iterations.
 
 Our biggest value is when we help with that important
@@ -14,13 +14,13 @@ While Benny can do it all by himself, we prefer to work
 with in-house specialists tapping into their knowledge and ensuring a
 smooth transition as we phase out.
 
-We are not cheap, but we do deliver solid software products with minimal
-management overhead. 
+Tuzig's services are not cheap, but we do deliver solid software products with minimal
+management overhead.
 
 Engagement Log
 --------------
 
-* Hasadna's CTO - helping about ten open source projects with their
+* Hasadna's CTO - helping 9 open source, open data projects with their
   design, architecture, code, testing, DevOps and hosting
 * Citizens' Empowerment Center - Configuring and deploying JIRA to track
   gov.il decisions and execution
