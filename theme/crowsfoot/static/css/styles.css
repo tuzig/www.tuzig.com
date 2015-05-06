@@ -57,7 +57,7 @@ p {
     font-family: "source-code-pro";
     color: #000;
     font-size: 1.4em;
-    margin-bottom: 20px;
+    margin-bottom: 32px;
     margin-top: 2px;
     /* padding-left: 30px; */
 }
@@ -248,10 +248,9 @@ footer {
     bottom: 0;
     color: grey;
     font-size: .7em;
-    height: 30px;
     position: absolute;
 }
-.links { float: right; }
+.links { float: right; font-size: 2em; }
 .active a { text-decoration: none; }
 .article img { float: right; padding: 0.5em 0 0.5em 0.5em; }
 #postlist li { list-style: none; }
