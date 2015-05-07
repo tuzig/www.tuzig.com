@@ -16,8 +16,8 @@ projects.
 > (Yaron Segev, XtremIO Founder)
 
 Tuzig is currently developing a not-for-profit project - Open Knesset for
-the Twenty Knesset. We are partnering with MKs and their teams to develop a
+the Twenty Knesset. We are partnering with MKs teams to develop a
 service that will strengthen the relationship between them and the
 activists. The plan is to have a crowd funding campaign by the end of
-May, so we're going to take on a new project in June 2015.
+May, so we're going to take on a new gig come June.
 
