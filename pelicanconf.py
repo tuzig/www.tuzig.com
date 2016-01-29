@@ -41,7 +41,6 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 '''
 
-# Blogroll
 LINKS = (('Open Knesset', 'http://oknesset.org/'),
          ('Hasadna', 'http://hasadna.org.il/'),
          ('PyWeb-IL', '#'),
