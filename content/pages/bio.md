@@ -8,19 +8,20 @@ Author: Benny Daon
 
 Software Architect
 
-- Leading R&D of the internet presence of BH archives
+- Leading R&D of the internet presence of Beit-Hatfuitsot archives
 - Designing an API and developing a flask server
 - Training a newbie on the angular fronend
-- Releasing the code on github and attracting a community
+- Using my network to hire great feelancers
+- Releasing the code on github and fostering a community
 
 ### OwnerListens Inc
     June 2015 - Aug 2015
 
 Full Stack Developer
 
-- Fixing Bugs
-- Developing features
 - Refactor DevOPS
+- Developing features
+- Fixing Bugs
 
 ### The Public Knowledge Workshop (non-profit)
     May 2014 - Apr 2015
@@ -31,16 +32,7 @@ Co-founder and Hired Hand
 - Helping Shevy, Hasadna's 2nd CEO, come up to speed
 
 ### The Public Knowledge Workshop (non-profit)
-    2012 - Mid 2014
-
-Co-founder and community coordinator (volunteer)
-
-- Keeping in touch with the volunteers
-- Welcoming new volunteers and finding them a project
-- Mentor project leaders
-
-### The Public Knowledge Workshop (non-profit)
-    2011
+    2011 - Mid 2014
 
 Co-Founder and General Secratery (volunteer)
 
@@ -49,13 +41,15 @@ Co-Founder and General Secratery (volunteer)
 - Organized weekly meetings and a couple of Hackathons
 - Started the
 [Docs](https://drive.google.com/open?id=0B1rAe9zy7m-PNTA0MDEzYjItMjQ4Mi00NjkwLWExNzctYzZhM2MzODMyZjUy)
+- Welcoming new volunteers and helping them find them a project
+- Mentor project leaders
 - Bought the beer
-
 
 ### Open Knesset - an open-source project
     August 2009 -
 
-Co-Founder and developer (volunteer)
+Co-Founder and Developer (volunteer)
+
 - Lead UI design and development
 - Coordinating a growing community of coders, designers and activists
 - Organizing weekly development meetings and hackathons
@@ -66,10 +60,11 @@ Co-Founder and developer (volunteer)
 ### PyWeb-IL - Israeli python web developers
     August 2008 -
 
-community coordinator (volunteer)  
+Co-Founder (volunteer) 
+
 - Co-founded a thriving community of Python web developers in Israel
-- Scheduled monthly meetings where the members share their expertise 
-- Promoting Python, Django and Open Source 
+- Scheduled monthly meetings where the members share their expertise
+- Promoting Python, Django and Open Source
 
 ### Aqua Software - lab orchestration
     July 2007 - August 2008
