@@ -90,3 +90,7 @@ The logs are published using [google's pub/sub](https://cloud.google.com/pubsub/
 
 This will require some creative UX/UI design, simple backend and a small webapp,
 prefreablly using angular 2.
+
+# See you at HackExtend!
+
+
