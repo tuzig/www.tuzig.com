@@ -15,6 +15,7 @@ Building a Fire
 ===============
 Benny will lead a software project and deliver a few iterations.
 
+![Reading power plant in Tel Aviv](/images/reading.png)
 The client needs to provide a short product
 description and introductions to its stakeholders. We start by meeting the
 stakeholders, writing a spec, get stakeholders'
@@ -28,16 +29,17 @@ smooth transition as we phase out.
 Engagement Log
 --------------
 
+* [The Museum of the Jewish People](http://dbs.bh.org.il) - Leading a small
+development team, architecting and coding.
 * [The Public Knowledge Workshop](http://www.hasadna.org.il/en) (Hasadna) - Providing technical help for
   open source, open data projects with their design, architecture, code,
   testing, DevOps and hosting
-  ![Reading power plant in Tel Aviv](/images/reading.png)
 * Citizens' Empowerment Center - [Configuring and deploying JIRA to track
   gov.il decisions and execution](http://jira.hasadna.org.il)
 * [XtremIO](http://www.xtremio.com/) - Developing a DevOps tool, including a backend, CLI
   and Jenkins plugin
 * [Fanwaze](http://www.fanwaze.com/) - Starting the R&D team and app development
-  for a high school friend
+  for a software startup
 * [Give2Gether](http://www.give2gether.com/) - Writing code for a social
   fundraising startup
 
