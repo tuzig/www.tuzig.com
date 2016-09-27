@@ -3,7 +3,7 @@ Author: Benny Daon
 
 ## Experience
 
-### Beit Hatfutsot - The museum of the jewish people
+### Beit Hatfutsot - The museum of the Jewish people
     Aug 2015 -
 
 Software Architect
@@ -11,11 +11,11 @@ Software Architect
 - Leading R&D of the internet presence of Beit-Hatfuitsot archives
 - Designing an API and developing a flask server
 - Training a newbie on the angular fronend
-- Using my network to hire great feelancers
+- Using my network to hire great freelancers
 - Releasing the code on github and fostering a community
 
 ### OwnerListens Inc
-    June 2015 - Aug 2015
+    June 2015 - August 2015
 
 Full Stack Developer
 
@@ -24,17 +24,9 @@ Full Stack Developer
 - Fixing Bugs
 
 ### The Public Knowledge Workshop (non-profit)
-    May 2014 - Apr 2015
+    January 2011 - 
 
-Co-founder and Hired Hand
-
-- System operations for Hasadna projects (~10)
-- Helping Shevy, Hasadna's 2nd CEO, come up to speed
-
-### The Public Knowledge Workshop (non-profit)
-    2011 - Mid 2014
-
-Co-Founder and General Secratery (volunteer)
+Co-Founder and General Secretary (volunteer)
 
 - Chose the name and personal mission statement
 - Recruited the founders
@@ -50,7 +42,7 @@ Co-Founder and General Secratery (volunteer)
 
 Co-Founder and Developer (volunteer)
 
-- Lead UI design and development
+- Lead UI/UX design and development
 - Coordinating a growing community of coders, designers and activists
 - Organizing weekly development meetings and hackathons
 - Convincing Knesset officials to improve their data interfaces
