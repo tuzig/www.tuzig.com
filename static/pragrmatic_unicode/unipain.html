@@ -40,7 +40,6 @@
     <!--[[[end]]]-->
     <title>Pragmatic Unicode</title>
     <meta name="author" content="Ned Batchelder" />
-    <meta name="email" content="ned@nedbatchelder.com" />
 
     <!-- *** Includes {{{ -->
     <!-- Slippy core file and dependencies -->
@@ -445,7 +444,7 @@
 
 <div class="slide title preztitle">
     <h1>Pragmatic Unicode<br><span class="or">~ or ~</span><br>How Do I Stop the Pain?</h1>
-    <h2>Ned Batchelder &nbsp; @nedbat</p>
+    <h2>Benny Daon, Ned Batchelder &nbsp; @daonb, @nedbat</p>
     <p>bit.ly/unipain</p>
 </div>
 
@@ -461,7 +460,7 @@
     <h1>The past</h1>
     <p>Wrote a nice program</p>
     <p>It worked!</p>
-    <p>Accented chars</p>
+    <p>Hebrew chars</p>
     <p>UnicodeError!</p>
     <div class="incremental emoji slot2">&#x1f601;</div>    <!-- grinning face with smiling eyes -->
     <div class="incremental emoji slot3">&#x1f47d;</div>    <!-- alien -->
@@ -1631,7 +1630,7 @@ The Hebrew character sets known to Kermit 95 are:
 </div>
 
 <div class="slide">
-    <h1>Data is dirty</h1>
+    <h1>Meta Data is dirty</h1>
     <p>Fact of Life #5</p>
     <p>Sometimes you are told wrong.</p>
 </div>
@@ -1651,10 +1650,10 @@ The Hebrew character sets known to Kermit 95 are:
 
 <div class="slide">
     <h1>Pro tip #3: Test Unicode</h1>
-    <p>&#x227;&#x188;&#x188;&#x1e17;&#x19e;&#x167;&#x1e17;&#x1e13;&#x20;&#x167;&#x1e17;&#x1e8b;&#x167;&#x20;&#x192;&#x1ff;&#x159;&#x20;&#x167;&#x1e17;&#x15f;&#x167;&#x12b;&#x19e;&#x260;</p>
-    <!-- <p>H̯ͮ̈́ͬͅe̯̩͎̱̪͕͗ͧͣ͆ạ̲͚͙̠́̆̇͐̚v̈́̑̇ͯ̄̈i̖͎̦̘͛͒̊̽l̳̻͛̌ͥ͑̽ͯÿ͇͍ͭͣͫͅ ̗̠ͮͪ͒͆̆̀ȧ̭̪̫̿̒̿cͣ̃c͙͉ẹ̣ͯͥ̈ͥ͒̈́n̘͔̐̓t̗̩͖̑͂e͖̭̰d̤͔̖̯̮̻̳ͭ͛͂̀ ̖̬͔̬t̪͛̌e̳̯̲̫̒̍x̳͇͉̱̆̇͊ͅt͋͊</p> -->
-    <p>ℛℯα∂α♭ℓℯ ♭ʊ☂ η☺т Ѧ$☾ℐℐ</p>
-    <p>¡ooʇ ןnɟǝsn sı uʍop-ǝpısdn</p>
+    <p>יוסי הטסטר</p>
+    <p>משה רבנו</p>
+    <p>foo => מת</p>
+    <p>bar => העולם</p>
 </div>
 
 <div class="text">
@@ -1680,7 +1679,8 @@ The Hebrew character sets known to Kermit 95 are:
     <div class="tight">
     <p>BOM &bull; Surrogate pairs &bull; Decompositions</p>
     <p>Combining marks &bull; Collations &bull; Normalization</p>
-    <p>Character categories &bull; BiDi &bull; Private use</p>
+    <p>Character categories &bull; <a
+    href="https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-bidi">BiDi</a> &bull; Private use</p>
     <p>Ligatures &bull; Character properties</p>
     <p>Narrow/Wide &bull; File names &bull; Fonts</p>
     </div>
@@ -2048,7 +2048,7 @@ http://docs.python.org/howto/unicode.html
 <div class="layout" data-name="default">
     <content></content>
     <div class="footer">
-        <span class="left">@nedbat</span>
+        <span class="left">@daonb, @nedbat</span>
         <span class="right">bit.ly/unipain</span>
         <hr class="defloat" />
     </div>
