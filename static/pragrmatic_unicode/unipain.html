@@ -587,14 +587,6 @@
     <p>ISO Latin 1, or 8859-1, is ASCII extended with 96 more symbols.</p>
 </div>
 
-<div class="slide fadein fadeout">
-    <h1>ISO 8859-8</h1>
-    <div id="iso88598" class="char_table_holder"></div>
-    <script>
-    ct = new CharTable();
-    ct.draw('#iso88598', "__rrrrrr__hhhhhh");
-    </script>
-</div>
 <div class="slide fadein">
     <h1>Windows-1252</h1>
     <div id="win1252" class="char_table_holder"></div>
@@ -623,15 +615,14 @@
 <div class="slide">
     <h1>Hebrew</h1>
 
-<hr>
-<h2>source: <a href="http://www.columbia.edu/kermit/k95manual/hebrew.html">kermit
-manual</a></h2>
+<p>source: <a href="http://www.columbia.edu/kermit/k95manual/hebrew.html">kermit
+manual</a></p>
 <p>
 The Hebrew character sets known to Kermit 95 are:
 </p>
 <pre>
   <i>Kermit Name    Type   Description</i>
-   HEBREW-ISO    8-bit    <a href="gloss.htm#g_iso">ISO</a> 8859-8 Latin/Hebrew
+   HEBREW-ISO    8-bit    ISO 8859-8 Latin/Hebrew
    HEBREW-7      7-bit    7-Bit Hebrew from Hebrew-model DEC VT100
    CP862         8-bit    Hebrew PC Code Page
 </pre>
@@ -1435,6 +1426,16 @@ The Hebrew character sets known to Kermit 95 are:
     <!--[[[end]]] }}}-->
 </div>
 
+<div class="slide">
+    <h1>Reading files in Python2</h1>
+    <div class='version-marker'>2</div>
+    <pre class='language-python language-python-2'>
+    <span class='line'>&gt;&gt;&gt; codecs.open("hi_utf8.txt", "r", encoding="utf-8").read()</span>
+    <span class='line'>'Hi \u2119\u01b4\u2602\u210c\xf8\u1f24'</span>
+    <span class='blankline'>&nbsp;</span>
+    </pre>
+    <!--[[[end]]] }}}-->
+</div>
 <div class="text">
     <p>Because of this new strictness, Python 3 has changed how you read files.
     Python has always had two modes for reading files: binary and text.  In Python 2, it 
@@ -1562,13 +1563,13 @@ The Hebrew character sets known to Kermit 95 are:
         """)
     ]]]-->
     <pre>
-    <span class='line'>Content-Type: text/html; charset=ISO-8859-4</span>
+    <span class='line'>Content-Type: text/html; charset=ISO-8859-8</span>
     <span class='blankline'>&nbsp;</span>
     <span class='line'>&lt;meta http-equiv="Content-Type" content="text/html;charset=utf-8" /&gt;</span>
     <span class='blankline'>&nbsp;</span>
     <span class='line'>&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</span>
     <span class='blankline'>&nbsp;</span>
-    <span class='line'># -*- coding: iso8859-1 -*-</span>
+    <span class='line'># -*- coding: utf-8 -*-</span>
     </pre>
     <!--[[[end]]] }}}-->
 </div>
@@ -1780,7 +1781,7 @@ The Hebrew character sets known to Kermit 95 are:
 
 <div class="slide final">
     <h1>Thank You</h1>
-    <p>bit.ly/unipain</p>
+    <p><a href="http://bit.ly/unipain">bit.ly/unipain</a></p>
     <!--
     <p>Ned Batchelder</p>
     <p>http://nedbatchelder.com</p>
@@ -2048,7 +2049,7 @@ http://docs.python.org/howto/unicode.html
 <div class="layout" data-name="default">
     <content></content>
     <div class="footer">
-        <span class="left">@daonb, @nedbat</span>
+        <span class="left">@nedbat</span>
         <span class="right">bit.ly/unipain</span>
         <hr class="defloat" />
     </div>
