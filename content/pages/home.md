@@ -1,11 +1,11 @@
-Title: Welcome to Tuzig Limited
+Title: Welcome to Tuzig 
 URL:
 save_as: index.html
 
-Tuzig Limited is Benny Daon's commercial avatar and the
-channel through which he sells his services. We provide web and mobile development
-services for agile projects and prefer to work for open source
-projects.
+Tuzig (Picnic in Hebrew) is a software workshop made by and for software
+freelancers who believe in open source software and diverse communities. We 
+work with people from organizations that need top-notch software to succeed and
+make the world a little better.
 
 > Working with Benny for the last year has brought back my faith in
 > developers who understand product. Apart from the coding part, in which he
