@@ -1,12 +1,11 @@
-Title: Welcome to Tuzig 
+Title: Welcome to Tuzig Limited
 URL:
 save_as: index.html
 
-Tuzig (Picnic in Hebrew) is a software workshop  developed by and for
-free-lanceing coders who believe in open source software and diverse communities.
-We work with people from organizations that rely on top-notch software to
-succeed and make the world a little better.
-
+Tuzig Limited is Benny Daon's commercial avatar and the
+channel through which he sells his services. We provide web and mobile development
+services for agile projects and prefer to work for open source
+projects.
 
 > Working with Benny for the last year has brought back my faith in
 > developers who understand product. Apart from the coding part, in which he
@@ -15,30 +14,6 @@ succeed and make the world a little better.
 > brings to the table levels of energy that every workplace wants.
 >
 > #### (Nurit Gazit, Chief Digital Officier, The Museum of the Jewish People)
-
-# Roster
-
-## Benny Daon
-
-Hi. I'm Benny from Tel-Aviv, father to Noya(13) and Daniella(7) and married to
-Libby.  I've been a co-founder and CEO of Shunrai Software, where we pioneered
-WAN Emulation with our tools, 'The Cloud' (1998)  and 'Storm'.  I've managed
-Shunra for 7 years keep cash flow positive and growing fast and discovered
-coding is much more fun than managing.
-
-I am Tuzig's founder, owner and garbage collector.  I've coded in Basic, 6502,
-Pl/1, Cobol, Fortran, Turbo Pascal, Pl/1, Ada, Fortran, C, C++, Java,
-javascript and python which is the best.  I've been coding and adminstrating
-nix machines since 1990 and I grok Linux or at least its user face.
-
-Currently free-lancing for matific, developing the core of a massive Django
-project connecting students and teachers to casual math games.
-
-## Alon Levy
-
-## Meir Kriheli
-
-
 
 ###### 
 
