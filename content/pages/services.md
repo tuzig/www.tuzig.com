@@ -1,34 +1,22 @@
 Title: Services
 
-Tuzig offers two kinds of service:
+Tuzig sells Benny's working days for periods of 3-13 months. Benny like to
+spend the better part of his time coding in pyhton. For the rest of the time
+Benny likes to talk to people to better understand your system, map the pains
+and techincal debt and come up with ideas on how to clear it.
 
-Just Code
-=========
-Benny will use his craft to commit Python and
-JavaScript code. We are most experienced with Django and AngularJS
-and we're happy to learn new tools. The client is expected to maintain a
-well organized
-[Kanaban](https://en.wikipedia.org/wiki/Kanban_%28development%29) to ease
-communications.
-
-Building a Fire
-===============
-Benny will lead a software project and deliver a few iterations.
-
-![Reading power plant in Tel Aviv](/images/reading.png)
-The client needs to provide a short product
-description and introductions to its stakeholders. We start by meeting the
-stakeholders, writing a spec, get stakeholders'
-approval, design the software architecture and UI, write the tests, code
-and documentation and manage the entire cycle.
-
-While Benny can do it all by himself, we prefer to work
-with in-house specialists tapping into their knowledge and ensuring a
-smooth transition as we phase out.
 
 Engagement Log
 --------------
 
+Benny is currently engaged with good people of [Otonomo](https://otonomo.io/),
+helping them improve code quality by adding a new layer of test automation.
+In the past We've worked with:
+
+* [Cyberason]() - Developing a black box test automation framework for a
+cyber protection agent.
+* [Matific](https://www.matific.com) - Cleanig up old debt in the belly of a an old Django monolith
+so kids can have fun learning math.
 * [The Museum of the Jewish People](http://dbs.bh.org.il) - Leading a small
 development team, architecting and coding.
 * [The Public Knowledge Workshop](http://www.hasadna.org.il/en) (Hasadna) - Providing technical help for
@@ -47,8 +35,6 @@ Prehistory
 ----------
 
 Before Tuzig, there was Shunra Software LTD a bootstrap company Benny
-co-founded and led as CEO in its first 7 years. Now part of HP,
+co-founded and led as CEO in its first 7 years. Now part of ~~HP~~ Microfocus.
 Shunra's first product was released in Mid 1998 - a WAN emulator called "The Cloud".
 Here is [Shunra's site](/shunra1) from back then. 
-
-    If you're interested please send Benny an email at bennydaon at gmail dot com.

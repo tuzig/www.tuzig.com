@@ -21,9 +21,9 @@ DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
              ('Me', '/pages/me.html'),
-             ('Bio', '/pages/bio.html'),
-             ('Philanthropy', '/pages/philanthropy.html'),
              ('Services', '/pages/services.html'),
+             ('Bio', '/pages/bio.html'),
+             ('Hacking Gov', '/pages/hacking-gov.html'),
              ('Colophone', '/pages/colophone.html'),
              )
 
