@@ -35,6 +35,6 @@ Prehistory
 ----------
 
 Before Tuzig, there was Shunra Software LTD a bootstrap company Benny
-co-founded and led as CEO in its first 7 years. Now part of ~~HP~~ Microfocus.
+co-founded and led as CEO in its first 7 years. Now part of <del>HP</del> Microfocus.
 Shunra's first product was released in Mid 1998 - a WAN emulator called "The Cloud".
 Here is [Shunra's site](/shunra1) from back then. 
