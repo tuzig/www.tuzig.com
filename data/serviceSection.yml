@@ -1,0 +1,27 @@
+---
+enable: true
+topTitle:  Selling Hours
+title: >
+  ## Professional Services
+  
+service:
+  - content: >
+      #### Benny Daon
+
+      Benny is an expert coder in the field of software test automation
+      tools. Typicly, Benny joins a DevOps team for 3-12 months, designing, 
+      developing and integrating a test automation framework.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Noya Duany (ex Daon)
+
+      Noya is a voice artists with extensive profesional
+      experience. Noya is best Known for the Hebrew voice 
+      of Disney's Vampirina and DreamWorks' Efrat.
+    image: images/service/web.svg
+  - content: >
+      #### Daniella Daon  
+      
+      Daniella is a voice artist with a couple of years of professional
+      experience. Daniella is best known for
+    image: images/service/creative.svg

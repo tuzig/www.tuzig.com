@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.tuzig.com/blog/markdown-formatting-demo/</loc>
+    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tuzig.com/blog/</loc>
+    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tuzig.com/</loc>
+    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tuzig.com/portfolio/</loc>
+    <lastmod>2020-08-12T12:13:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tuzig.com/portfolio/rotem/</loc>
+    <lastmod>2020-08-12T12:13:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tuzig.com/portfolio/terminal7/</loc>
+    <lastmod>2020-08-12T12:13:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tuzig.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.tuzig.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.tuzig.com/tags/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,49 @@
+baseURL = "https://www.tuzig.com/"
+languageCode = "en-us"
+paginate = 6
+theme = "portio"
+title = "Tuzig LTD"
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Contact"
+url = "#contact"
+weight = 3
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "About Us"
+url = "about"
+weight = 1
+[[menu.sitemap]]
+name = "Privacy & Policy"
+url = "#"
+weight = 2
+
+[params]
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = "All right reserved copyright © Tuzig LTD 2021"
+footerLogo = "images/contact/widget-logo.png"
+formspreeURL = "YOUR FORMSPREE URL"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/logo.png"
+
+[params.address]
+address = "22 Usishkin St"
+email = "info@tuzig.com"
+openingHours = ""
+phone = ""
+
+# Social icons
+[[params.social]]
+icon = "fa-github-square"
+url = "https://www.github.com/tuzig"
+weight = 1
