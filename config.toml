@@ -3,30 +3,6 @@ languageCode = "en-us"
 paginate = 6
 theme = "portio"
 title = "Tuzig LTD"
-# Main Menu
-[[menu.main]]
-name = "Home"
-url = "#home"
-weight = 1
-[[menu.main]]
-name = "About"
-url = "#about"
-weight = 2
-[[menu.main]]
-name = "Contact"
-url = "#contact"
-weight = 3
-
-# Sitemap Menu
-[[menu.sitemap]]
-name = "About Us"
-url = "about"
-weight = 1
-[[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
-weight = 2
-
 [params]
 blogPageURL = "blog"
 contactLink = "contact"

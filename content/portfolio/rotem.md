@@ -1,7 +1,7 @@
 ---
 title: Rotem and The Elephant
 date: 2020-08-12T12:13:40+00:00
-thumbnail: images/portfolio/rotem.png
+thumbnail: images/portfolio/rotem.jpg
 service: Book Publishing
 client: Libby Daon
 shortDescription: Libby's first book is a naive, well rhymed and funny tale of
