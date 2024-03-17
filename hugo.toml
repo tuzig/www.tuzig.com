@@ -1,0 +1,34 @@
+baseURL = 'https://tuzig.com/'
+defaultContentLanguage = "en"
+languageCode = "en"
+title = 'Tuzig Software Services'
+theme = "gokarna"
+# Automatically generate robots.txt
+enableRobotsTXT = true
+[Params]
+  favicon = "favicon.ico"
+  # Set the logo
+  logo = "logo.png"
+  # Set the logo alt text
+  logoAlt = "Tuzig Software Services"
+  # Set the logo link
+  logoLink = "/"
+  # Set the logo width
+  logoWidth = 200
+  # Set the logo height
+  logoHeight = 200
+  CustomHeadHTML = "<link rel='stylesheet' href='css/style.css'>"
+  letsTalkURL = "https://calendly.com/bennydaon"
+[menu]
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 30
+  [[menu.main]]
+    identifier = "github"
+    url = "https://github.com/tuzig"
+    weight = 40
+    # We use feather-icons: https://feathericons.com/
+    pre = "<span data-feather='github'></span>"
