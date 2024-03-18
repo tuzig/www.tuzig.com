@@ -13,14 +13,14 @@ It breaks down to a simple principle: if you see something that is not right, fi
 If you see a piece of code that is not up to par,
 you should take the time to clean it up.
 If a comment is confusing, it should removed or improved.
-If a tool or process should be improved, do it and if it leads to a rabbit hole, open a ticket.
+If a tool or process should be improved, do it or if it leads to a rabbit hole, open a ticket.
 
 Adopting the rule is not easy. It requires a change in the culture;
-instead of moving fast and breaking things, the team should move fast and fix things. 
+instead of moving fast and breaking things, you should move fast and fix things. 
 As a first step, leadership should acknowledge that the debt is there and that cleaning takes time.
-Then code reviewers can keep the boyscout rule in mind, taking the time to suggest ways to clean the code. 
+Then code reviewers will keep the boyscout rule in mind, taking the time to suggest ways to clean the code.
 
 Encouraging the rule will instill a sense of ownership and responsibility in the team.
 This will change their PoV and technical debt will start hurting their eyes. 
-Cleaning will become a habit and technical debt interest will be at a minimum.
+Cleaning will become a habit and the interest will be kept at a minimum.
 
