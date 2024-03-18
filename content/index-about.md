@@ -10,7 +10,7 @@ Led by [Benny Daon](https://www.linkedin.com/in/daonb), our services are focused
 
 ## Our Stacks
 
-- Languages: Python, Go, TypeScrtipt
+- Languages: Go, Python, TypeScrtipt, bash
 - Backend: Flask, Django, fastAPI, [Pion](https://pion.ly/)
 - Frontend: Plain TS, [HTMX](https://htmx.org), [CapacitorJS](https://capacitorjs.com/)
 - DevOps: Docker, Git, Github, Jenkins
