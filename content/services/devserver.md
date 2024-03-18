@@ -2,7 +2,6 @@
 title: "Shared Development Server"
 date: 2024-03-12T09:14:11+02:00
 type: "page"
-draft: true
 description: "Cutting costs and unifying devs' envs by setting up a shared development server"
 order: 2
 ---

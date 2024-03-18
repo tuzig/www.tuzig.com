@@ -2,7 +2,6 @@
 title: "Technical Debt Analysis and Cleanup"
 date: 2024-03-11T16:45:18+02:00
 type: "page"
-draft: true
 description: "Identify, assess, and clear technical debt from your python projects"
 ---
 

@@ -2,7 +2,6 @@
 title: "Automated Acceptance Test Procedure"
 date: 2024-03-07T17:13:18+02:00
 type: "page"
-draft: true
 description: "Develop the infrastructure to run black box tests on CI/CD and provide a stable development environment"
 order: 1
 ---
