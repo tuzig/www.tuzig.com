@@ -1,5 +1,5 @@
 ---
-title: "The boyscout rule and software development"
+title: "The boyscout rule in software development"
 date: "2024-03-18T10:00:49+02:00"
 type: "post"
 ---
@@ -7,7 +7,7 @@ type: "post"
 ![A young girl smiling, playing on a poluuted river](/images/pollution.jpg)
 *Beawiharta Beawiharta/Reuters*
 
-The boyscout rule is a simple rule that can be applied to many aspects of life.
+The boyscout rule is a simple rule that can be applied to many commons.
 It says: "Leave the campground cleaner than you found it".
 It's probably the best way to keep a common space clean and tidy.
 It's also a great way to control technical debt in software development.
