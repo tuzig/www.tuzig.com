@@ -57,11 +57,11 @@
     {{ $posts := where .Site.Pages "Params.type" "post" }}
 
     {{ if eq .Site.Params.ShowPostsOnHomePage "popular" }}
-        {{ range $posts.ByWeight | first 4 }}
+        {{ range $posts.ByWeight }}
             {{- partial "list-posts.html" . -}}
         {{ end }}
     {{ else if eq .Site.Params.ShowPostsOnHomePage "recent" }}
-        {{ range $posts.ByDate.Reverse | first 4 }}
+        {{ range $posts.ByDate.Reverse }}
             {{- partial "list-posts.html" . -}}
         {{ end }}
     {{ end }}
