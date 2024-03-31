@@ -1,0 +1,10 @@
+<article class="post-title">
+    <h3>
+        <a href="{{ .Permalink }}" class="post-link">{{ .Title }}</a>
+    <div class="flex-break"></div>
+    <span class="post-date">{{ dateFormat (or .Site.Params.dateFormat "January 2, 2006") .Date}}</span>
+    </h3>
+    {{ $content := split .Content "<p>" }}
+    <p>{{ index $content 1 | safeHTML }}</p>
+</article>
+

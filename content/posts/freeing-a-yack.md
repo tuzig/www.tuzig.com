@@ -6,8 +6,6 @@ type: post
 
 # Freeing a Yack
 
-[ Written as reply to [Alon Nisser](https://medium.com/u/2a5400d58707) post: "[I toggled public, now what?](https://medium.com/@alonisser/i-toggled-public-now-what-6b42959db251#.e8vt352qf)" ]  
-
 A couple of weeks ago, I walked into the CEO's office for a chat.  
 We've talked about what we should do next, now that we've completed opening the legacy DB with an API. Dan called it getting our Yack on the truck and it freaked me.
 
@@ -37,3 +35,5 @@ I changed the default to our test server in devapi.dbs.bh.org.il and as Alon req
 As of now we have 61 open issues and 31 we already closed. We also customized the labels a bit and have a couple of Milestones we use to prioritize issues.  
 
 I'm not yet sure what the open source community is getting from all of this and frankly, I don't really care. It's been great for the team and for now, that's all that matters.
+
+[ Written as reply to Alon Nisser post: "[I toggled public, now what?](https://medium.com/@alonisser/i-toggled-public-now-what-6b42959db251#.e8vt352qf)" ]  
