@@ -15,4 +15,4 @@ Led by [Benny Daon](https://www.linkedin.com/in/daonb), our services are focused
 - Frontend: Plain TS, [HTMX](https://htmx.org), [CapacitorJS](https://capacitorjs.com/)
 - DevOps: Docker, Git, Github, Jenkins
 - Virtual Lab: [Docker Compose](https://docs.docker.com/compose/), [pytest](https://docs.pytest.org), [Playwright](https://github.com/microsoft/playwright), [WireMock](https://github.com/wiremock/wiremock), [MailHog](https://github.com/mailhog/MailHog)
-- Databases: Redis, Mongodb, PostreSQL
+- Databases: Redis, Mongodb, PostgreSQL
