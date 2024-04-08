@@ -18,7 +18,7 @@ enableRobotsTXT = true
   # Set the logo height
   logoHeight = 200
   CustomHeadHTML = "<link rel='stylesheet' href='css/style.css'>"
-  letsTalkURL = "https://calendly.com/bennydaon"
+  letsTalkURL = "https://calendly.com/daonb/half-an-hour"
   ShowPostsOnHomePage = "recent"
 [menu]
 
