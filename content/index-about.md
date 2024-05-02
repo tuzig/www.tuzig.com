@@ -8,11 +8,15 @@ Led by [Benny Daon](https://www.linkedin.com/in/daonb), our services are focused
 - Quality is an emergent property and can't be controlled directly
 - [eXtreme Programming](https://en.wikipedia.org/wiki/Extreme_programming) (XP) is a great way to develop software
 
+Check out [Terminal7](https://terminal7.dev) an open source WebRTC based
+terminal emulator and multiplexer we lead
+{.lead}
+
 ## Our Stacks
 
-- Languages: Go, Python, TypeScrtipt, bash
+- Languages: Python, Go, TypeScrtipt
 - Backend: Flask, Django, fastAPI, [Pion](https://pion.ly/)
 - Frontend: Plain TS, [HTMX](https://htmx.org), [CapacitorJS](https://capacitorjs.com/)
 - DevOps: Docker, Git, Github, Jenkins
 - Virtual Lab: [Docker Compose](https://docs.docker.com/compose/), [pytest](https://docs.pytest.org), [Playwright](https://github.com/microsoft/playwright), [WireMock](https://github.com/wiremock/wiremock), [MailHog](https://github.com/mailhog/MailHog)
-- Databases: Redis, Mongodb, PostgreSQL
+- Databases: Redis, Mongodb, PostreSQL

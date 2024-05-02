@@ -9,3 +9,13 @@
 li p {
     margin-top: 0.2em;
 }
+.lead {
+    font-size: 1.10em;
+    line-height: 1.6;
+    padding: 2em 0.5em;
+    background-color: var(--dark-tertiary-color);
+    transition: box-shadow 0.3s ease-in-out;
+    margin: 0 auto;
+    max-width: 80%;
+    border-radius: 8px;
+}

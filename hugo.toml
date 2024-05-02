@@ -1,4 +1,4 @@
-baseURL = 'https://tuzig.com/'
+baseURL = 'http://tuzig.com/'
 defaultContentLanguage = "en"
 languageCode = "en"
 title = 'Tuzig Software Services'
@@ -33,3 +33,11 @@ enableRobotsTXT = true
     weight = 40
     # We use feather-icons: https://feathericons.com/
     pre = "<span data-feather='github'></span>"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
