@@ -1,0 +1,205 @@
+<html>
+
+<head>
+<title>Downloading &quot;The Cloud&quot;</title>
+</head>
+
+<body BGCOLOR="#FFFFFF" TEXT="#000000" background="back2.JPG">
+
+<!--webbot BOT="GeneratedScript" PREVIEW=" " startspan --><script Language="JavaScript"><!--
+function FrontPage_Form1_Validator(theForm)
+{
+
+  if (theForm.name.value == "")
+  {
+    alert("Please enter a value for the \"name\" field.");
+    theForm.name.focus();
+    return (false);
+  }
+
+  if (theForm.name.value.length < 6)
+  {
+    alert("Please enter at least 6 characters in the \"name\" field.");
+    theForm.name.focus();
+    return (false);
+  }
+
+  if (theForm.name.value.length > 40)
+  {
+    alert("Please enter at most 40 characters in the \"name\" field.");
+    theForm.name.focus();
+    return (false);
+  }
+
+  var checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzƒ??????????????????????????????";
+  var checkStr = theForm.name.value;
+  var allValid = true;
+  for (i = 0;  i < checkStr.length;  i++)
+  {
+    ch = checkStr.charAt(i);
+    for (j = 0;  j < checkOK.length;  j++)
+      if (ch == checkOK.charAt(j))
+        break;
+    if (j == checkOK.length)
+    {
+      allValid = false;
+      break;
+    }
+  }
+  if (!allValid)
+  {
+    alert("Please enter only letter characters in the \"name\" field.");
+    theForm.name.focus();
+    return (false);
+  }
+
+  if (theForm.company.value == "")
+  {
+    alert("Please enter a value for the \"company\" field.");
+    theForm.company.focus();
+    return (false);
+  }
+
+  if (theForm.company.value.length < 3)
+  {
+    alert("Please enter at least 3 characters in the \"company\" field.");
+    theForm.company.focus();
+    return (false);
+  }
+
+  if (theForm.company.value.length > 40)
+  {
+    alert("Please enter at most 40 characters in the \"company\" field.");
+    theForm.company.focus();
+    return (false);
+  }
+
+  var checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzƒ??????????????????????????????0123456789-";
+  var checkStr = theForm.company.value;
+  var allValid = true;
+  for (i = 0;  i < checkStr.length;  i++)
+  {
+    ch = checkStr.charAt(i);
+    for (j = 0;  j < checkOK.length;  j++)
+      if (ch == checkOK.charAt(j))
+        break;
+    if (j == checkOK.length)
+    {
+      allValid = false;
+      break;
+    }
+  }
+  if (!allValid)
+  {
+    alert("Please enter only letter and digit characters in the \"company\" field.");
+    theForm.company.focus();
+    return (false);
+  }
+
+  if (theForm.e-mail.value == "")
+  {
+    alert("Please enter a value for the \"e-mail\" field.");
+    theForm.e-mail.focus();
+    return (false);
+  }
+
+  if (theForm.e-mail.value.length < 8)
+  {
+    alert("Please enter at least 8 characters in the \"e-mail\" field.");
+    theForm.e-mail.focus();
+    return (false);
+  }
+
+  if (theForm.e-mail.value.length > 40)
+  {
+    alert("Please enter at most 40 characters in the \"e-mail\" field.");
+    theForm.e-mail.focus();
+    return (false);
+  }
+
+  var checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzƒ??????????????????????????????0123456789-@.";
+  var checkStr = theForm.e-mail.value;
+  var allValid = true;
+  for (i = 0;  i < checkStr.length;  i++)
+  {
+    ch = checkStr.charAt(i);
+    for (j = 0;  j < checkOK.length;  j++)
+      if (ch == checkOK.charAt(j))
+        break;
+    if (j == checkOK.length)
+    {
+      allValid = false;
+      break;
+    }
+  }
+  if (!allValid)
+  {
+    alert("Please enter only letter, digit and \"@.\" characters in the \"e-mail\" field.");
+    theForm.e-mail.focus();
+    return (false);
+  }
+  return (true);
+}
+//--></script><!--webbot BOT="GeneratedScript" endspan --><form METHOD="POST" target="_self" action="_vti_bin/shtml.exe/downloading_the_cloud.htm" onsubmit="return FrontPage_Form1_Validator(this)" name="FrontPage_Form1" webbot-action="--WEBBOT-SELF--">
+  <!--webbot bot="SaveResults" S-Email-Format="TEXT/PRE" S-Email-Address="beta@shunra.com" B-Email-Label-Fields="TRUE" B-Email-Subject-From-Field="FALSE" S-Email-Subject="new beta request" S-Builtin-Fields="Date Time" startspan --><strong>[FrontPage Save Results Component]</strong><!--webbot bot="SaveResults" endspan i-checksum="6561" --><input type="hidden" name="setup_file" value="download.setup"><blockquote>
+    <p><font face="Book Antiqua">&quot;The Cloud&quot;&nbsp; is currently in limited Beta
+    testing. We will be happy to have you as part of our Beta program. If you're
+    interested,&nbsp;&nbsp; please fill the form below and we will get back to you.&nbsp; </font></p>
+    <div align="left"><table BORDER="0" CELLSPACING="4" CELLPADDING="0" width="182" height="499">
+      <tr>
+        <th width="254" height="25"><div align="left"><p><font face="Book Antiqua">Name*</font></th>
+        <td width="458" height="25" align="center"><!--webbot bot="Validation" S-Data-Type="String" B-Allow-Letters="TRUE" B-Value-Required="TRUE" I-Minimum-Length="6" I-Maximum-Length="40" --><input TYPE="text" NAME="name" SIZE="40" MAXLENGTH="40"></td>
+      </tr>
+      <tr>
+        <th ALIGN="left" width="254" height="26"><div align="left"><p><font face="Book Antiqua">Company*</font></th>
+        <td width="458" height="26" align="center"><!--webbot bot="Validation" S-Data-Type="String" B-Allow-Letters="TRUE" B-Allow-Digits="TRUE" B-Value-Required="TRUE" I-Minimum-Length="3" I-Maximum-Length="40" --><input TYPE="text" NAME="company" SIZE="40" MAXLENGTH="40"></td>
+      </tr>
+      <tr align="center">
+        <th ALIGN="left" width="249" height="25"><div align="left"><p><font face="Book Antiqua">Phone
+        Number </font></th>
+        <td width="458" height="25" align="center"><input TYPE="text" NAME="phone" MAXLENGTH="40" SIZE="40"></td>
+      </tr>
+      <tr align="center">
+        <th ALIGN="left" width="254" height="25"><div align="left"><p><font face="Book Antiqua">Fax
+        Number</font></th>
+        <td width="458" height="25" align="center"><input TYPE="text" NAME="fax" MAXLENGTH="40" SIZE="40"></td>
+      </tr>
+      <tr align="center">
+        <th ALIGN="left" width="254" height="25"><div align="left"><p><font face="Book Antiqua">E-Mail
+        *</font></th>
+        <td width="458" height="25" align="center"><!--webbot bot="Validation" S-Data-Type="String" B-Allow-Letters="TRUE" B-Allow-Digits="TRUE" S-Allow-Other-Chars="@." B-Value-Required="TRUE" I-Minimum-Length="8" I-Maximum-Length="40" --><input TYPE="text" NAME="e-mail" SIZE="40" MAXLENGTH="40"></td>
+      </tr>
+      <tr align="center">
+        <th ALIGN="left" width="254" height="25"><div align="center"><center><p><font face="Book Antiqua">Address 1</font></th>
+        <td width="458" height="25" align="center"><input TYPE="text" NAME="address_1" MAXLENGTH="40" SIZE="40"></td>
+      </tr>
+      <tr align="center">
+        <th ALIGN="left" width="254" height="25"><div align="center"><center><p><font face="Book Antiqua">Address 2</font></th>
+        <td width="458" height="25" align="center"><input TYPE="text" NAME="address_2" MAXLENGTH="40" SIZE="40"></td>
+      </tr>
+      <tr align="center">
+        <th ALIGN="left" width="254" height="24"><div align="left"><p><font face="Book Antiqua">State</font></th>
+        <td width="458" height="24" align="center"><input TYPE="text" NAME="state" MAXLENGTH="40" SIZE="40"></td>
+      </tr>
+      <tr align="center">
+        <th ALIGN="left" width="254" height="25"><div align="left"><p><font face="Book Antiqua">Zip
+        Code</font></th>
+        <td width="458" height="25" align="center"><input TYPE="text" NAME="zip" MAXLENGTH="40" SIZE="40"></td>
+      </tr>
+      <tr align="center">
+        <th ALIGN="left" width="254" height="25"><div align="left"><p><font face="Book Antiqua">Country</font></th>
+        <td width="458" height="25" align="center"><input TYPE="text" NAME="country" MAXLENGTH="40" SIZE="40"></td>
+      </tr>
+      <tr align="center">
+        <th ALIGN="left" width="254" height="71"><div align="left"><p><font face="Book Antiqua">Additional
+        Info.&nbsp; </font></th>
+        <td width="458" height="71" align="center"><textarea rows="4" name="additional" cols="34"></textarea></td>
+      </tr>
+    </table>
+    </div><div align="center"><center><p><input type="submit" value="Submit" name="Submit">
+    &nbsp;&nbsp;&nbsp; <input type="reset" value="Reset" name="Reset"></p>
+    </center></div>
+  </blockquote>
+</form>
+</body>
+</html>
